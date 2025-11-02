@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Freshers Orientation",
+    "dateISO": "2025-08-01T09:00:00Z",
+    "imageUrl": "./assets/event1.jpg",
+    "description": "Welcome to all new students. Campus tour, meet faculty, and icebreaker sessions."
+  },
+  {
+    "id": "2",
+    "title": "Tech Talk: React Native",
+    "dateISO": "2025-08-10T15:00:00Z",
+    "imageUrl": "./assets/event2.jpg",
+    "description": "Deep dive into React Native performance tips and Expo workflows."
+  },
+  {
+    "id": "3",
+    "title": "Sports Day",
+    "dateISO": "2025-09-05T07:30:00Z",
+    "imageUrl": "./assets/event3.jpg",
+    "description": "Inter-department athletics, fun runs, and team games."
+  },
+  {
+    "id": "4",
+    "title": "Career Fair",
+    "dateISO": "2025-09-20T10:00:00Z",
+    "imageUrl": "./assets/event4.jpg",
+    "description": "Meet recruiters from top tech companies and startups."
+  },
+  {
+    "id": "5",
+    "title": "Workshop: UI/UX Basics",
+    "dateISO": "2025-10-02T13:00:00Z",
+    "imageUrl": "./assets/event5.jpg",
+    "description": "Hands-on sessions on typography, layout, and Figma workflows."
+  },
+  {
+    "id": "6",
+    "title": "Alumni Meetup",
+    "dateISO": "2025-10-12T18:00:00Z",
+    "imageUrl": "./assets/event6.jpg",
+    "description": "Network with alumni across industries and batches."
+  },
+  {
+    "id": "7",
+    "title": "Seminar: Cloud Computing",
+    "dateISO": "2025-10-22T11:30:00Z",
+    "imageUrl": "./assets/event7.jpg",
+    "description": "Intro to cloud architectures and real-world case studies."
+  },
+  {
+    "id": "8",
+    "title": "Hackathon",
+    "dateISO": "2025-11-05T09:00:00Z",
+    "imageUrl": "./assets/event8.jpg",
+    "description": "48-hour coding sprint — teams, mentors, prizes."
+  },
+  {
+    "id": "9",
+    "title": "Cultural Night",
+    "dateISO": "2025-11-20T19:00:00Z",
+    "imageUrl": "./assets/event9.jpg",
+    "description": "Performances, food stalls, and student showcases."
+  },
+  {
+    "id": "10",
+    "title": "Research Presentation Day",
+    "dateISO": "2025-12-05T10:00:00Z",
+    "imageUrl": "./assets/event10.jpg",
+    "description": "Students present their capstone and research work."
+  }
+]

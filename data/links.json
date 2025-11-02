@@ -1,0 +1,10 @@
+[
+  { "id": "l1", "label": "Library", "url": "https://example.com/library" },
+  { "id": "l2", "label": "Cafeteria Menu", "url": "https://example.com/cafe" },
+  { "id": "l3", "label": "Course Portal", "url": "https://example.com/courses" },
+  { "id": "l4", "label": "Timetable", "url": "https://example.com/timetable" },
+  { "id": "l5", "label": "Placements", "url": "https://example.com/placements" },
+  { "id": "l6", "label": "Clubs", "url": "https://example.com/clubs" },
+  { "id": "l7", "label": "Transport", "url": "https://example.com/transport" },
+  { "id": "l8", "label": "Noticeboard", "url": "https://example.com/notices" }
+]
